@@ -107,18 +107,18 @@ class ProductCard extends StatelessWidget {
             Expanded(
               flex: 2,
               child: Padding(
-                padding: EdgeInsets.all(12),
+                padding: EdgeInsets.all(6),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
                       product.name,
                       style: TextStyle(
-                        fontSize: 14,
+                        fontSize: 10,
                         fontWeight: FontWeight.w600,
                         color: Color(0xFF2E7D32),
                       ),
-                      maxLines: 2,
+                      maxLines: 1,
                       overflow: TextOverflow.ellipsis,
                     ),
                     SizedBox(height: 4),
@@ -208,4 +208,3 @@ class ProductCard extends StatelessWidget {
     );
   }
 }
-

@@ -81,6 +81,20 @@ The app is designed with usability, clarity, and sustainability principles at it
 - **Consistent iconography** inspired by nature and sustainability
 
 ---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/flutter_01.png" width="250" />
+  <img src="screenshots/flutter_02.png" width="250" />
+  <img src="screenshots/flutter_03.png" width="250" />
+</p>
+
+<p align="center">
+  <strong>Login</strong> &nbsp;&nbsp;&nbsp;
+  <strong>Home</strong> &nbsp;&nbsp;&nbsp;
+  <strong>Cart</strong>
+</p>
+
 
 ## 🧱 Project Structure
 

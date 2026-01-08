@@ -81,6 +81,20 @@
 - **أيقونات متناسقة** تعكس الاستدامة والطبيعة
 
 ---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/flutter_01.png" width="250" />
+  <img src="screenshots/flutter_02.png" width="250" />
+  <img src="screenshots/flutter_03.png" width="250" />
+</p>
+
+<p align="center">
+  <strong>Login</strong> &nbsp;&nbsp;&nbsp;
+  <strong>Home</strong> &nbsp;&nbsp;&nbsp;
+  <strong>Cart</strong>
+</p>
+
 
 ## 🧱 هيكل المشروع
 
